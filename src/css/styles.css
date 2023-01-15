@@ -18,3 +18,17 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul,
+li,
+h2 {
+  list-style: none;
+  font-size: 35px;
+  padding: 0;
+  margin: 5px;
+}
+.js-flag,
+.js-country {
+  display: inline-block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
